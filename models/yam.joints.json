@@ -1,0 +1,118 @@
+{
+  "source": "I2RT YAM Pro + linear_4310 (MIT)",
+  "up": "y",
+  "joints": [
+    {
+      "name": "joint1",
+      "body": "link1",
+      "type": "hinge",
+      "axis": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "range": [
+        -2.61799,
+        3.05433
+      ]
+    },
+    {
+      "name": "joint2",
+      "body": "link2",
+      "type": "hinge",
+      "axis": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "range": [
+        0.0,
+        3.65
+      ]
+    },
+    {
+      "name": "joint3",
+      "body": "link3",
+      "type": "hinge",
+      "axis": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "range": [
+        0.0,
+        3.66519
+      ]
+    },
+    {
+      "name": "joint4",
+      "body": "link4",
+      "type": "hinge",
+      "axis": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "range": [
+        -1.5708,
+        1.5708
+      ]
+    },
+    {
+      "name": "joint5",
+      "body": "link5",
+      "type": "hinge",
+      "axis": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "range": [
+        -1.5708,
+        1.5708
+      ]
+    },
+    {
+      "name": "joint6",
+      "body": "link6",
+      "type": "hinge",
+      "axis": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "range": [
+        -2.0944,
+        2.0944
+      ]
+    },
+    {
+      "name": "joint7",
+      "body": "tip_left",
+      "type": "slide",
+      "axis": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "range": [
+        0.0,
+        0.0475
+      ]
+    },
+    {
+      "name": "joint8",
+      "body": "tip_right",
+      "type": "slide",
+      "axis": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "range": [
+        0.0,
+        0.0475
+      ]
+    }
+  ]
+}
