@@ -1,0 +1,1 @@
+var e=e=>`${`/crowdbrain-preview`.replace(/\/$/,``)}${e}`;export{e as t};
